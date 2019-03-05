@@ -56,3 +56,17 @@ ul li:nth-child(1) {
 .body {
 	padding: 100px;
 }
+
+.col-md-6 {
+	border: solid black 2px;
+    height: 450px;
+    width: 350px;
+	margin: 1px;
+	padding-left: 52px;
+    padding-top: 10px;
+}
+
+.card-body {
+	padding-left: 41px;
+}
+
